@@ -10,8 +10,8 @@ class NotionFlowLauncher(FlowLauncher):
     
     def __init__(self):
         # Load your Notion API token and database ID from settings
-        self.notion_token = "your_notion_integration_token"  # Replace with your actual token
-        self.database_id = "your_database_id"  # Replace with your actual database ID
+        self.notion_token = "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"  # Replace with your actual token
+        self.database_id = "ec96c591108e4637a9644c8d3460d5f2"  # Replace with your actual database ID
         
     def query(self, query):
         # If the query is empty, return basic info
