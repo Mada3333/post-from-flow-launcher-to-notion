@@ -1,0 +1,12 @@
+{
+    "ID":"6edf5907-aabe-4148-9972-d2d4bad6a499",             
+    "ActionKeyword":"ntf", 
+    "Name":"NotionToFlowLauncher",          
+    "Description":"Post a text in Notion pages and databases",    
+    "Author":"Keishi Masuda",        
+    "Version":"0.1.0",        
+    "Language":"python",
+    "IcoPath": "notionPost.png",       
+    "ExecuteFileName":"notion-flow-launcher.py" 
+  }
+  
